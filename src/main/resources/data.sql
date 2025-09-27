@@ -1,0 +1,13 @@
+INSERT INTO PLAYER (USERNAME, NAME, FIRST_NAME, LAST_NAME, POSITION) VALUES ('apoorv_chaturvedi', 'Apoorv Chaturvedi', 'Apoorv', 'Chaturvedi', 'Attack');
+INSERT INTO PLAYER (USERNAME, NAME, FIRST_NAME, LAST_NAME, POSITION) VALUES ('pritam_pawar', 'Pritam Pawar', 'Pritam', 'Pawar', 'Attack');
+INSERT INTO PLAYER (USERNAME, NAME, FIRST_NAME, LAST_NAME, POSITION) VALUES ('mudit_vohra', 'Mudit Vohra', 'Mudit', 'Vohra', 'Midfield');
+INSERT INTO PLAYER (USERNAME, NAME, FIRST_NAME, LAST_NAME, POSITION) VALUES ('anmol_yadav', 'Anmol Yadav', 'Anmol', 'Yadav', 'Defense');
+INSERT INTO PLAYER (USERNAME, NAME, FIRST_NAME, LAST_NAME, POSITION) VALUES ('hrishikesh_khairnar', 'Hrishikesh Khairnar', 'Hrishikesh', 'Khairnar', 'Midfield');
+INSERT INTO PLAYER (USERNAME, NAME, FIRST_NAME, LAST_NAME, POSITION) VALUES ('atharva_sadavarte', 'Atharva Sadavarte', 'Atharva', 'Sadavarte', 'Midfield');
+INSERT INTO PLAYER (USERNAME, NAME, FIRST_NAME, LAST_NAME, POSITION) VALUES ('vrushabh_pawar', 'Vrushabh Pawar', 'Vrushabh', 'Pawar', 'Defense');
+INSERT INTO PLAYER (USERNAME, NAME, FIRST_NAME, LAST_NAME, POSITION) VALUES ('apurv_toppo', 'Apurv Toppo', 'Apurv', 'Toppo', 'Defense');
+INSERT INTO PLAYER (USERNAME, NAME, FIRST_NAME, LAST_NAME, POSITION) VALUES ('pradeep_singh', 'Pradeep Singh', 'Pradeep', 'Singh', 'Defense');
+INSERT INTO PLAYER (USERNAME, NAME, FIRST_NAME, LAST_NAME, POSITION) VALUES ('suyash_ghadi', 'Suyash Ghadi', 'Suyash', 'Ghadi', 'Midfield');
+INSERT INTO PLAYER (USERNAME, NAME, FIRST_NAME, LAST_NAME, POSITION) VALUES ('atul_kakkar', 'Atul Kakkar', 'Atul', 'Kakkar', 'Attack');
+INSERT INTO PLAYER (USERNAME, NAME, FIRST_NAME, LAST_NAME, POSITION) VALUES ('virendra_nair', 'Virendra Nair', 'Virendra', 'Nair', 'Defense');
+INSERT INTO PLAYER (USERNAME, NAME, FIRST_NAME, LAST_NAME, POSITION) VALUES ('vidit_mongia', 'Vidit Mongia', 'Vidit', 'Mongia', 'Defense');
