@@ -1,0 +1,37 @@
+📌 Attendance Endpoints
+
+    Mark Attendance
+        Description: Marks attendance for a player on a specific date. If already marked, returns a warning response.
+        Method: POST
+        URL: /attendance/mark
+        Body Example:
+        {
+            "date": "2025-09-25",
+            "present": true,
+            "player": {
+                "username": "atharva_sadavarte"
+            }
+        }
+
+    Get Attendance for a Player
+        Description: Retrieves all attendance records for a specific player.
+        Method: GET
+        URL: /attendance/player/{username}
+        Example: /attendance/player/atharva_sadavarte
+
+    Get Attendance by Username and Date
+        Description: Retrieves a single attendance record for a given player on a specific date.
+        Method: GET
+        URL: /attendance/{username}/{date}
+        Example: /attendance/atharva_sadavarte/2025-09-25
+
+    Get All Attendance
+        Description: Retrieves all attendance records across all players.
+        Method: GET
+        URL: /attendance/all    
+
+    Remove Attendance
+        Description: Removes an attendance record for the given player on the specified date.
+        Method: DELETE
+        URL: /attendance/remove?username={username}&date={date}
+        Example: /attendance/remove?username=atharva_sadavarte&date=2025-09-25
