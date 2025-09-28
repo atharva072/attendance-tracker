@@ -1,5 +1,5 @@
 Pushing code to github - 
     git pull origin main --rebase
     git add .
-    git commit -m "Your changes"
+    git commit -m ""
     git push
